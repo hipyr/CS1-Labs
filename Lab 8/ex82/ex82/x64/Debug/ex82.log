@@ -1,0 +1,3 @@
+﻿  ex82.cpp
+C:\Users\LOVE4\source\repos\ex82\ex82\ex82.cpp(30,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  ex82.vcxproj -> C:\Users\LOVE4\source\repos\ex82\x64\Debug\ex82.exe

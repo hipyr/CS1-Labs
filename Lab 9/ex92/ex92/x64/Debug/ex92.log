@@ -1,0 +1,3 @@
+﻿  ex92.cpp
+C:\Users\LOVE4\source\repos\ex92\ex92\ex92.cpp(50,27): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  ex92.vcxproj -> C:\Users\LOVE4\source\repos\ex92\x64\Debug\ex92.exe
